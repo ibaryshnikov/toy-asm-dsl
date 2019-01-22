@@ -1,0 +1,4 @@
+[[package]]
+name = "rust-macro-toy-dsl-asm"
+version = "0.1.0"
+
